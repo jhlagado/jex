@@ -1,2 +1,2 @@
 # jex
-A simple dependency injector for JavaScript
+A simple dependency injector for JavaScript 
